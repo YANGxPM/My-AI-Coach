@@ -3,12 +3,12 @@
   
 A strict AI coach who can help teach me knowledge on Product Management.  
 Link: https://creator.voiceflow.com/share/69380ff9e00121d793684621/development  
- 
-(Writing...)  
   
-Product Requirements Document (PRD)  
-Project Name: PM AI Coach Status: v1.0 / MVP Owner: [YANGxPM] Date: December 2025  
-
+Project Name: PM AI Coach  
+Status: v1.0  
+Owner: [YANGxPM]  
+Date: December 2025    
+  
 ## 1. Problem Statement - Why I built this project
 Aspiring Product Managers struggle to practice for interviews effectively.  
 * Current Solution: They read static books or use generic ChatGPT.
