@@ -1,5 +1,5 @@
 # AI教练
-**Read this in other languages.(./README.md)**  
+**[Read this in other languages.](./README.md)**  
 这是一位严格的AI教练，能够指点我关于产品经理的知识。  
 体验链接：https://creator.voiceflow.com/share/69380ff9e00121d793684621/development  
 
