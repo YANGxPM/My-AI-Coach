@@ -111,7 +111,7 @@ function Scenarios() {
           </div>
         </>
       ) : (
-        <div style={{ height: '100%', display: 'flex', flexDirection: 'column' }}>
+        <div style={{ flex: 1, display: 'flex', flexDirection: 'column' }}>
           <div style={{
             display: 'flex',
             justifyContent: 'space-between',

@@ -90,10 +90,12 @@ body {
 .chat-container,
 .lessons-container,
 .scenarios-container {
-  min-height: 100%;
+  height: 100%;
   max-width: 1200px;
   margin: 0 auto;
   padding: 2rem;
+  display: flex;
+  flex-direction: column;
 }
 
 .page-header {
@@ -344,4 +346,23 @@ body {
   to {
     transform: rotate(360deg);
   }
+}
+
+.lesson-view {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  overflow-y: auto;
+}
+
+.lesson-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: start;
+  margin-bottom: 1rem;
+}
+
+.lesson-content {
+  flex: 1;
+  overflow-y: auto;
 }
