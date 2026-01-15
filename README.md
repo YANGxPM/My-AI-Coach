@@ -1,6 +1,6 @@
 # AI PM Coach
 
-An AI-powered Product Management coaching application designed to help you kickstart your AI PM career. Learn AI/ML fundamentals, practice real-world scenarios, and get personalized guidance from an expert AI coach powered by Claude.
+An AI-powered Product Management coaching application designed to help learn knowledge on AI product management. Learn AI/ML fundamentals, practice real-world scenarios, and get personalized guidance from an expert AI coach powered by Claude.
 
 ## Features
 
