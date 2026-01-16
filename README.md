@@ -1,5 +1,5 @@
 # AI PM Coach
-
+[🔗查看中文版](README_zh.md)
 An AI-powered Product Management coaching application designed to help teach knowledge on AI product management. Learn AI/ML fundamentals, practice real-world scenarios, and get personalized guidance from an expert AI coach powered by Claude.
 
 ## Features
