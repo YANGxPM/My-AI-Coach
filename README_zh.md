@@ -1,5 +1,6 @@
 # AI PM Coach
-[🔗English Version](README.md)  
+**[🔗English Version](README.md)**  
+
 AI × 产品管理 × 用户体验 的智能教练产品
 
 
